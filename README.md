@@ -1,0 +1,1 @@
+This repository contains a colab notebook that forecasts the total 50+ yard field goals attempted and made during the 2024 season based on the current pace and displays the amount and percentage of 50+ yards fgs every year from 1999-2024. I created this notebook after 50+ yarders were a huge talking point following week 1 of the 2024 NFL season.
